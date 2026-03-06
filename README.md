@@ -11,7 +11,7 @@
 - Menambah stok
 - Mengurangi stok
 
- Desain Class
+ # Desain Class :
 
 # class1
 Class ini menyimpan data produk seperti:
