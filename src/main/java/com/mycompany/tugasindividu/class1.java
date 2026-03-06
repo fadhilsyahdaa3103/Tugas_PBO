@@ -9,5 +9,9 @@ package com.mycompany.tugasindividu;
  * @author VICTUS
  */
 public class class1 {
-    
+     private String productId;
+    private String productName;
+    private int stock;
+    private double price;
+    private String category;
 }
