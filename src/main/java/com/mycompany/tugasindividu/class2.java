@@ -4,10 +4,10 @@
  */
 package com.mycompany.tugasindividu;
 
-/**
- *
- * @author VICTUS
- */
 public class class2 {
-    
+
+    public void displayProduct(class1 p){
+        p.checkStock();
+    }
+
 }
